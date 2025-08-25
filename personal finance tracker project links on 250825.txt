@@ -1,0 +1,21 @@
+
+https://learn.microsoft.com/en-us/azure/ai-foundry/agents/how-to/tools/file-search-upload-files?pivots=python
+
+https://learn.microsoft.com/en-us/azure/ai-foundry/agents/quickstart?pivots=programming-language-python-azure
+
+pip install -r requirements.txt
+copy .env.example .env
+python -m streamlit run
+personal_finance_agent.py
+Mihir Inamdar 8/25/2025 11:46 AM • pip install streamlit azure-ai-inference PyPDF2 pandas openpyxl python-dotenv
+
+
+https://youtu.be/kh6KbXmVxZ0?si=TMLt3Hs0jJ5hwBn5
+
+https://learn.microsoft.com/en-us/azure/ai-foundry/agents/how-to/tools/file-search-upload-files?pivots=python
+
+https://learn.microsoft.com/en-us/azure/ai-foundry/agents/how-to/tools/file-search-upload-files?pivots=python
+https://youtu.be/Ry4VAesjU4I?si=rnAglfICTzgdDER-
+https://youtu.be/Ry4VAesjU4I?si=rnAglfICTzgdDER-
+https://youtu.be/0x5gVyV7oqo?si=OgYANaT8WlYbECIt
+https://youtu.be/kh6KbXmVxZ0?si=TMLt3Hs0jJ5hwBn5
