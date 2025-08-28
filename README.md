@@ -16,7 +16,7 @@ This application creates an intelligent agent using Azure AI Foundry that can an
    - **Storage Blob Data Contributor** on your project's storage account
    - **Azure AI Developer** on your project
 
-## Setup Instructions
+## Setup Instructions for the project
 
 1. Clone this repository:
    ```
